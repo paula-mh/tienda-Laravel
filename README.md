@@ -1,2 +1,2 @@
 # tienda-Laravel
-Repositorio de tienda ficticia creada en Laravel para Desarrollo Web en Entorno Servidor
+Repositorio de tienda ficticia creada en el framework Laravel para Desarrollo Web en Entorno Servidor
